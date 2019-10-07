@@ -6,7 +6,7 @@ ruby '2.6.4'
 gem 'elasticsearch', '~> 7.3'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'devise', '~> 4.7', '>= 4.7.1'
-
+gem 'omniauth-facebook', '~> 5.0'
 
 gem 'image_processing', '~> 1.9', '>= 1.9.3'
 # Object oriented authorization for Rails applications
